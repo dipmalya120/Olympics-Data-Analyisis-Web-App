@@ -3,4 +3,4 @@ In this project, I've built a Web Application using Streamlit. Exploratory Data 
 
 Dataset Link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results                  
 Code Link: https://github.com/dipmalya120/Olympics-Data-Analysis-Web-App                  
-Web Application Link: https://olympics-analysis-dipmalya.herokuapp.com/
+Web Application Link: https://olympics-analysis-dipmalya.herokuapp.com
